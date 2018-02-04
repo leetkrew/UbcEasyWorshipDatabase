@@ -1,5 +1,5 @@
 [Options]
-Default BackGround=81
+Default BackGround=25
 LastVideoPath=<VideoResourcesDir>
 LastImagePath=<ImageResourcesDir>
 LastAudioPath=<AudioResourcesDir>
